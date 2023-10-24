@@ -2,7 +2,7 @@ body {
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    background-image: src="img.jpg";
+    background-image: url('img.jpg');
     background-repeat: no-repeat;
     background-size: 100% 839%;
     background-position: 0px opx;
