@@ -5,7 +5,7 @@ body {
     background-image: url(/img.jpg);
     background-repeat: no-repeat;
     background-size: 100% 839%;
-    background-position: 0px opx;
+    background-position: 0px 0px;
     background-color: #899788;
 }
 
